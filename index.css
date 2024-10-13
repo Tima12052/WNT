@@ -1,0 +1,4 @@
+.home-tab-container {
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    width: 100px;
+}
